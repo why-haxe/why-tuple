@@ -54,6 +54,5 @@ class Tuple {
 					def;
 				});
 		}
-		
 	}
 }
